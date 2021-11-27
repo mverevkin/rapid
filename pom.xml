@@ -11,6 +11,7 @@
     <modules>
         <module>document</module>
         <module>infrastructure</module>
+        <module>core</module>
     </modules>
 
     <properties>

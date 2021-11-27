@@ -1,6 +1,4 @@
-package ru.sbrf.cl.decision.rapid.document.validator;
-
-import ru.sbrf.cl.decision.rapid.document.Document;
+package ru.sbrf.cl.decision.rapid.document;
 
 import java.util.List;
 

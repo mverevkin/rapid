@@ -1,4 +1,4 @@
-package ru.sbrf.cl.decision.rapid.document.validator;
+package ru.sbrf.cl.decision.rapid.document;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

@@ -1,8 +1,9 @@
-package ru.sbrf.cl.decision.rapid.document.usecase;
+package ru.sbrf.cl.decision.rapid.document.impl;
 
 import lombok.RequiredArgsConstructor;
 import ru.sbrf.cl.decision.rapid.document.Document;
-import ru.sbrf.cl.decision.rapid.document.port.DocumentRepository;
+import ru.sbrf.cl.decision.rapid.document.DocumentRepository;
+import ru.sbrf.cl.decision.rapid.document.FindDocumentUseCase;
 
 import java.util.List;
 import java.util.Optional;

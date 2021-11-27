@@ -22,6 +22,11 @@
             <artifactId>lombok</artifactId>
             <version>${org.projectlombok.version}</version>
         </dependency>
+        <dependency>
+            <groupId>ru.sbrf.cl.decision</groupId>
+            <artifactId>rapid-core</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 </project>

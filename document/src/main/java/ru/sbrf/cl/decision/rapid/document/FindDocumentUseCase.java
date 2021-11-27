@@ -1,4 +1,4 @@
-package ru.sbrf.cl.decision.rapid.document.usecase;
+package ru.sbrf.cl.decision.rapid.document;
 
 import ru.sbrf.cl.decision.rapid.document.Document;
 

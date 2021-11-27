@@ -1,7 +1,4 @@
-package ru.sbrf.cl.decision.rapid.document.validator;
-
-import ru.sbrf.cl.decision.rapid.document.Document;
-import ru.sbrf.cl.decision.rapid.document.exception.DocumentValidationException;
+package ru.sbrf.cl.decision.rapid.document;
 
 import java.util.ArrayList;
 import java.util.List;
